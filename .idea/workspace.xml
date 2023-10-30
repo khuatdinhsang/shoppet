@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01a659f7-72e8-4a78-90d1-743697ab06cd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ShopPet/nbproject/ant-deploy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/nbproject/ant-deploy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPet/src/java/controllers/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/src/java/controllers/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPet/src/java/controllers/account/ChangePassController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/src/java/controllers/account/ChangePassController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPet/src/java/controllers/cart/GetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/src/java/controllers/cart/GetController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPet/src/java/controllers/customer/ChangeProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/src/java/controllers/customer/ChangeProfileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPet/src/java/controllers/customer/ProfileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/src/java/controllers/customer/ProfileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPet/src/java/controllers/order/AddController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/src/java/controllers/order/AddController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPet/src/java/controllers/orderInfo/AddController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/src/java/controllers/orderInfo/AddController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPet/src/java/dal/DBContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/src/java/dal/DBContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPet/src/java/dal/OrderDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/src/java/dal/OrderDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPet/src/java/dal/ProductDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/src/java/dal/ProductDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPet/src/java/models/OrderInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/src/java/models/OrderInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPet/src/java/services/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/src/java/services/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPet/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPet/web/assets/js/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/web/assets/js/all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPet/web/views/elements/cart/header_cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/web/views/elements/cart/header_cart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPet/web/views/pages/cart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/web/views/pages/cart.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShopPet/web/views/pages/checkout.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ShopPet/web/views/pages/checkout.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet_shop_db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/pet_shop_db.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2MuTDsteACMJII9QhtxPx34MsPy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ADMIN/Documents/SWP/swp391-group-4/ShopPet"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01a659f7-72e8-4a78-90d1-743697ab06cd" name="Changes" comment="" />
+      <created>1678616358189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678616358189</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
